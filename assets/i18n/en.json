@@ -1,0 +1,36 @@
+{
+  "angularExampleApp": "GL Byte",
+  "home": "Home",
+  "heroesList": "Heroes list",
+  "lob": "Line of Business",
+  "plat": "Services",
+  "supportmultiplesources": "Support multiple sources",
+  "differentFilesFormats":"Different file formats",
+  "addPredefeinedFunc":"Add Predefeined Functions while transformation",
+  "glBytecopy": "GlByte  © 2018 Glbyte Inc. | Terms of Use | Privacy Policy",
+
+
+
+  "language": "Language",
+  "orange": "Orange",
+  "yellow": "Yellow",
+  "cyan": "Cyan",
+  "name": "Name",
+  "nameRequired": "Name is required",
+  "details": "details",
+  "alert": "Alert",
+  "cancel": "Cancel",
+  "back": "Back",
+  "saved": "Saved!",
+  "errorHasOcurred": "An error has ocurred",
+  "areYouSure": "Are you sure?",
+  "no": "No",
+  "yes": "Yes",
+  "error404": "404 Error",
+  "mayTheForce": "May the force be with you",
+  "updateBrowser": "You are using an old browser, please update it and reload the page.",
+  "firstTwoHeroesById": "Heroes (1-2)",
+  "offlineMessage": "Without connection we can not load anything!",
+  "goBack": "Go back",
+  "snapshot": "Snapshot"
+}
