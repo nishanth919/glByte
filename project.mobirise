@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "dataMgmt.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 29,
+    "uniqCompNum": 35,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -44,7 +44,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Web Site Generator Description",
+        "meta_descr": "glByte -Reconciliation, Accounting",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1072,11 +1072,11 @@
         }
       ]
     },
-    "page1.html": {
+    "dataMgmt.html": {
       "settings": {
-        "meta_descr": "Web Site Generator Description",
+        "meta_descr": "Data Capture & Streaming ",
         "title": "Data Management",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
